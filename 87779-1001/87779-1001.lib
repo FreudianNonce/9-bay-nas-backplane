@@ -1,0 +1,45 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 87779-1001
+#/329516/1844936/2.50/22/4/Connector
+DEF 87779-1001 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "87779-1001" 750 200 50 H V L CNN
+F2 "877791001" 750 100 50 H I L CNN
+F3 "http://www.farnell.com/datasheets/2698903.pdf" 750 0 50 H I L CNN
+F4 "Molex 87779 Series 1.27mm Pitch Backplane Connector, Female, Vertical, 1 Row, 22 Way" 750 -100 50 H I L CNN "Description"
+F5 "9.95" 750 -200 50 H I L CNN "Height"
+F6 "Molex" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "87779-1001" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "538-87779-1001" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Molex/87779-1001?qs=D%252By4jQJzx8JOwxiJNs7sKQ%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "87779-1001" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/87779-1001/molex?region=nac" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X P1 P1 0 -700 200 R 50 50 0 0 P
+X P2 P2 0 -800 200 R 50 50 0 0 P
+X P3 P3 0 -900 200 R 50 50 0 0 P
+X P4 P4 0 -1000 200 R 50 50 0 0 P
+X P5 P5 0 -1100 200 R 50 50 0 0 P
+X P6 P6 0 -1200 200 R 50 50 0 0 P
+X P7 P7 0 -1300 200 R 50 50 0 0 P
+X P8 P8 0 -1400 200 R 50 50 0 0 P
+X P9 P9 0 -1500 200 R 50 50 0 0 P
+X P10 P10 0 -1600 200 R 50 50 0 0 P
+X P11 P11 0 -1700 200 R 50 50 0 0 P
+X P12 P12 0 -1800 200 R 50 50 0 0 P
+X P13 P13 0 -1900 200 R 50 50 0 0 P
+X P14 P14 0 -2000 200 R 50 50 0 0 P
+X P15 P15 0 -2100 200 R 50 50 0 0 P
+X S1 S1 0 0 200 R 50 50 0 0 P
+X S2 S2 0 -100 200 R 50 50 0 0 P
+X S3 S3 0 -200 200 R 50 50 0 0 P
+X S4 S4 0 -300 200 R 50 50 0 0 P
+X S5 S5 0 -400 200 R 50 50 0 0 P
+X S6 S6 0 -500 200 R 50 50 0 0 P
+X S7 S7 0 -600 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -2200 200 -2200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

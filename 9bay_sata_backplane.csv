@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","25v 560uf","","","","Capacitor_THT:CP_Radial_D10.0mm_P5.00mm","https://www.mouser.com/ProductDetail/Panasonic/EEH-AZS1E561B?qs=81r%252BiQLm7BR3Lrx9nkxErQ%3D%3D"
+"C101,C201,C301,C401,C501,C601,C701,C801,C901","9","35v 10uf","","","","Capacitor_SMD:C_1206_3216Metric","https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31B106KLHNNNE?qs=yOVawPpwOwktbQXOrUt5Og%3D%3D"
+"J1","1","HDD POWER","","","","Connector_TE-Connectivity:TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical","https://www.mouser.com/ProductDetail/TE-Connectivity-AMP/350211-1?qs=sGAEpiMZZMvlX3nhDDO4AK9eWPK7Qn%252BSYlHEoWtn69E%3D"
+"J101,J201,J301,J401,J501,J601,J701,J801,J901","9","87779-1001","","","","87779-1001:877791001","https://www.mouser.com/ProductDetail/Molex/87779-1001?qs=D%252By4jQJzx8JOwxiJNs7sKQ%3D%3D"
+"J102,J202,J302,J402,J502,J602,J702,J802,J902","9","67800-8025","","","","67800-8025:678008025","https://www.mouser.com/ProductDetail/Molex/67800-8025?qs=3DzawVMofg92QkpdTaH6sA%3D%3D"
+"R101,R201,R301,R401,R501,R601,R701,R801,R901","9","22ohm","","","","Resistor_SMD:R_1206_3216Metric","https://www.mouser.com/ProductDetail/Panasonic/ERJ-U08F22R0V?qs=Z3CaLxJiOJIsu2tgjsUTiA%3D%3D"
